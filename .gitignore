@@ -61,10 +61,11 @@ typings/
 .next
 
 
-.cache/
+# .cache/
 public/
 .gatsby-context.js
 netlify.toml
 
 # mac FS
 .DS_Store
+node_modules
